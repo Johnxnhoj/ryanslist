@@ -1,0 +1,36 @@
+login
+
+As a user, I want to be able to create a username and password combo so that I can log into the chat application.
+As a user, I want to be able to put in my username and password and be sent to the chat screen of my choice.
+As a user, I want to have a button that will allow me to reset my password in case I forget it.
+As a user, I want to be able to sign in with Facebook so that I don't need to remember another username password combo.
+
+Registration/Login
+As a user, I want to be able to create a username, password, and email combo so that I can log into the chat application.
+As a user, I want to be able to put in my username and password and be sent to the chat screen of my choice.
+As a user, I want to have a button that will allow me to reset my password via email in case I forget it.
+
+--login--
+As a user I want to be able to insert a username and password to log in to the application
+As a user I want to be able to create a username and password to log in to the application
+As a user I want to be able to insert my email in the Registration process so if i forget my password i have a place for them to be sent
+As a user I want to be able to edit my password or have a forget my password if I need a new password
+
+CHANNEL:
+As a user, I want to see multiple channels so that I can differentiate topics.
+As a user, I want to be able to create a new channel or hide channel so I can only see the channels I want.
+As a user, I want to rename the channel.
+As a user, I want to prioritize the channels.
+As a user, I want to see who is in the channel.
+
+PROFILE:
+As a user, I want to be able to edit/update my information.
+As a user, I want to be able to upload a profile picture.
+
+MESSAGING:
+As a user, I want to be able to send messages to  multiply people or a single person or to the channel.
+
+Chat Window:
+As a user, I want to display all the messages
+As a user, I want to be able to create a message
+As a user, I want to see who wrote and sent the message
